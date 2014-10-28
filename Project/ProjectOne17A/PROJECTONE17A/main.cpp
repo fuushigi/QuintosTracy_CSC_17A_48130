@@ -316,6 +316,7 @@ cout << "******************************************\n";
 cout << "Please enter a phone number:\n";
 cin>>number1;
 outputFile<<number1<<endl;
+outputFile.close();
     break;
     case 5: //case 5 will print out the money points "pay out structure"
     cout << "******************************************\n";    
