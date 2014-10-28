@@ -1,0 +1,9 @@
+Memory allocation
+
+
+ 
+arrays of structures, 
+
+
+internally as well as externally.
+
