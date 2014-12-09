@@ -1,0 +1,8 @@
+make the 50/50 lifeline as functions
+
+with inhertence and exception
+
+if G is selected
+50/50 life line for that questions will pop up
+with only 2 possible answers displayed
+if right answer is chosen play moves on to next question

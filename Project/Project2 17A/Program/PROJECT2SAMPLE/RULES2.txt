@@ -1,0 +1,13 @@
++++RULES OF CHALLANGE MODE+++
+1)Player must correctly answer 5 consecutively to win 1.5 million dollar prize money.
+2)Entering '1' will start the game.
+3)Entering '2' allows player to read from a file "RULES OF CHALLANGE MODE"
+4)Entering '3' exits Challange Mode, player is then directed to 'Normal Mode'.
+5)Entering '4' displays the Challange Mode money prize list.
+6)Unlimited time to answer each question. Player choose A, B, C, D for answers.
+7)There is only one life-line for challenger mode which is phone a friend,
+however, contacts are given by author. This life-line can be used for questions 1-5. USER MUST MEMORIZE in order to use life-line hence "CHALLENGE MODE". use: TQ, ML, KW, GW, or KP.
+8)If answer is chosen the program will ask if your choice is your final answer, if not, enter n/N will direct you back to your question.
+9)If answer is correct money prize is awarded each successive questions that is answer correctly, until Challange Mode is done.
+10)Answering a question wrong will result in a game over. displays normal mode menu
+11)Player is prompted to try normal game mode if they have not done so.

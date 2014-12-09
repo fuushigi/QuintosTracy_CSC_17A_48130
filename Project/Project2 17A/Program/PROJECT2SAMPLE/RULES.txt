@@ -1,0 +1,16 @@
++++RULES OF THE GAME+++
+1) Answer all fifteen questions correctly without getting one wrong.
+2) Answering a question correctly will earn the contestant prize money.Increments as game continues.
+3) The player will have choices between 2 Life-Line options that can be used for every question.
+4) First available life-line is "PHONE-A-FRIEND", player must access case 4 in menu to add a phone number
+in other to use this life-line. in game, pressing E will call phone number from a file.
+5) Second available life-line is the audience poll, in game, pressing F will display a stastic with the audience
+poll of what answer is most likely to be correct.
+6) After deciding on an answer, user will have a chance to decide if that is their final answer or not.
+7) Answering a question wrong will result in a loss.
+8) The player will be prompted to enter in pertinent information about name, address, age, occupation, and score.
+9) After the Fifteenth question user will be asked to take bonus question where you will play along.
+10) Enjoy the game!
+11) Terms and Agreements, no prizes is actually given to user, just a program project! CHEERS!
+12)Enter 6 for CHALLANGE MODE
+
