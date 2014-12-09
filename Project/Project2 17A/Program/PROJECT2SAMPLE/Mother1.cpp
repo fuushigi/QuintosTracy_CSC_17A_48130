@@ -185,6 +185,7 @@ void Mother1::inputException5() //exception handling for challenger question 5
         cout << "YOU ARE CORRECT!\n";
         moneyPointCH(1500000);
         cout << "IF YOU HAVE NOT DONE SO, PLEASE CONTINUE TO NORMAL GAME MODE!\n";
+        mainMenu();
     }
     else
     {
